@@ -2,3 +2,8 @@ h1 {
     color: green;
     background-color: blue;
 }
+h3 {
+    color: red;
+    background-color: blanchedalmond;
+    border: 3px solid;
+}
